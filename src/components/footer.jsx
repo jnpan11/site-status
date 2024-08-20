@@ -30,13 +30,13 @@ const Footer = () => {
         </p>
         <p>
           基于&nbsp;
-          <CustomLink to="https://uptimerobot.com/" text="UptimeRobot" />
+          <CustomLink to="https://dashboard.uptimerobot.com/monitors" text="UptimeRobot" />
           &nbsp;接口&nbsp;|&nbsp;检测频率 5 分钟
         </p>
         <p>
           Copyright&nbsp;&copy;&nbsp;2020&nbsp;-&nbsp;{new Date().getFullYear()}
           &nbsp;
-          <CustomLink to="https://www.imsyy.top/" text="無名" />
+          <CustomLink to="https://i.jnpan.top/" text="槿南" />
           {siteIcp ? (
             <React.Fragment>
               &nbsp;|&nbsp;
